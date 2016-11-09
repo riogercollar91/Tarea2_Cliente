@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cliente - Top_Rated_Movies</string>
+    <string name="dataNotExist">The DB of App Gestor_Informacion is empty</string>
+    <string name="dataExist">Correct access to DB data of the App Gestor_Informacion</string>
+</resources>
